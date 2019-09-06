@@ -1,0 +1,24 @@
+skip on
+mark off
+log x on
+log y on
+la x Time since BAT trigger (s)
+la pos y 3.5
+la y Count Rate (0.3-10 keV) (s\u-1\d)
+la rotate
+la f cyan: WT settling - blue: WT - red: PC
+la t Swift/XRT data of GRB 180720B
+r 53.7303998114342 4656661.3476 0.000227346 3766.07374
+time off
+col 5 on 1
+col 11 on 2
+col 2 on 3
+ma 31 on 4
+mar si 4 on 4
+col 2 on 4
+la par off
+csize 1.3
+lw 5
+plot
+hard thumb.ps/CPS
+q

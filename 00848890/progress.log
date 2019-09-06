@@ -1,0 +1,1063 @@
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890000
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890001
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890002
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890003
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890004
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890005
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890006
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890007
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890008
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890009
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890010
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890011
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890012
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890013
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890014
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890015
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890016
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890017
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890018
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890019
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890020
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890021
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890022
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890023
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890024
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890025
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890026
+
+Found observation /tmp/tmp_lc_newbuild_00848890_obs_q8Syy/00848890027
+
+There are 28 XRT observations
+Centroiding on the source, to get the best position I can
+Checking for any sources which encroach on the source region
+
+       *************** Working on observation 00848890000 *************** 
+
+
+** Starting wt MODE **
+
+
+* starting orbit 1, times 553789412.205687 to 553791653.589926 *
+
+Now checking for pileup. This can take a while
+Mode is wt, rate threshold is 150
+
+Time 553789416.205687 to 553789488.205687 (-0.5-71.5) need PSF-fitting
+Time 553789488.205687 to 553789593.205687 (71.5-176.5) need PSF-fitting
+Time 553789593.205687 to 553789928.205687 (176.5-511.5) need PSF-fitting
+OK, finding an annulus to counter pileup
+
+Sorting times 553789416.205687 to 553789488.205687
+
+Creating the new event list
+ The WT data are piled up between 553789416.205687 and 553789488.205687. Corrected.
+Sorting times 553789488.205687 to 553789593.205687
+
+Creating the new event list
+ The WT data are piled up between 553789488.205687 and 553789593.205687. Corrected.
+Sorting times 553789593.205687 to 553789928.205687
+
+Creating the new event list
+ The WT data are piled up between 553789593.205687 and 553789928.205687. Corrected.
+
+** Starting pc MODE **
+
+
+       *************** Working on observation 00848890001 *************** 
+
+
+** Starting wt MODE **
+
+
+* starting orbit 1, times 553794947.886937 to 553795984.764296 *
+
+Now checking for pileup. This can take a while
+Mode is wt, rate threshold is 150
+
+
+* starting orbit 2, times 553800663.637037 to 553800746.198679 *
+
+Now checking for pileup. This can take a while
+Mode is wt, rate threshold is 150
+
+
+* starting orbit 3, times 553802500.838402 to 553802515.077818 *
+
+Now checking for pileup. This can take a while
+Mode is wt, rate threshold is 150
+
+
+* starting orbit 4, times 553806477.476012 to 553806489.589365 *
+
+Now checking for pileup. This can take a while
+Mode is wt, rate threshold is 150
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 553800739.873843 to 553801683.096743 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+End of interval, intdir: 935
+
+Time 553800743.873843 to 553801679.096743 (-2.5-932.722899913788) need PSF-fitting
+There are times in this data set which maybe piled up. Doing PSF fitting to confirm this, and correct for it
+Calling ximage to get the psf
+----------------------------------
+
+The data are piled up between 553800743.873843 and 553801679.096743. Need to ignore the central 16.52"
+
+* starting orbit 2, times 553802508.752063 to 553803211.274163 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+End of interval, intdir: 695
+
+Time 553802512.752063 to 553803207.274163 (-2.5-692.022099852562) need PSF-fitting
+There are times in this data set which maybe piled up. Doing PSF fitting to confirm this, and correct for it
+Calling ximage to get the psf
+----------------------------------
+
+The data are piled up between 553802512.752063 and 553803207.274163. Need to ignore the central 21.24"
+
+* starting orbit 3, times 553806483.268083 to 553808727.779683 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+End of interval, intdir: 2235
+
+Time 553806487.268083 to 553808723.779683 (-2.5-2234.01159989834) need PSF-fitting
+There are times in this data set which maybe piled up. Doing PSF fitting to confirm this, and correct for it
+Calling ximage to get the psf
+----------------------------------
+
+The data are piled up between 553806487.268083 and 553808723.779683. Need to ignore the central 16.52"
+
+       *************** Working on observation 00848890002 *************** 
+
+
+** Starting wt MODE **
+
+wt mode data for obs 00848890002 only has 9.132284402847290E+00 s of data. The current minimum is 15 so I'm skipping this dataset
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 553853107.774264 to 553853943.183263 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+Time 553853366.774264 to 553853596.774264 (252.5-482.5) need PSF-fitting
+There are times in this data set which maybe piled up. Doing PSF fitting to confirm this, and correct for it
+Calling ximage to get the psf
+----------------------------------
+
+Calling ximage to get the background
+----------------------------------
+
+The data are piled up between 553853366.774264 and 553853596.774264. Need to ignore the central 11.8"
+
+* starting orbit 2, times 553854721.186723 to 553854844.522523 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+End of interval, intdir: 50
+
+Time 553854725.186723 to 553854840.522523 (-2.5-112.83579993248) need PSF-fitting
+There are times in this data set which maybe piled up. Doing PSF fitting to confirm this, and correct for it
+Calling ximage to get the psf
+----------------------------------
+
+Calling ximage to get the background
+----------------------------------
+
+The data are piled up between 553854725.186723 and 553854840.522523. Need to ignore the central 7.08"
+
+* starting orbit 3, times 553858167.964843 to 553859763.085743 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+End of interval, intdir: 545
+
+Time 553858171.964843 to 553859759.085743 (-2.5-1584.6208999157) need PSF-fitting
+There are times in this data set which maybe piled up. Doing PSF fitting to confirm this, and correct for it
+Calling ximage to get the psf
+----------------------------------
+
+The data are piled up between 553858171.964843 and 553859759.085743. Need to ignore the central 7.08"
+
+       *************** Working on observation 00848890003 *************** 
+
+
+** Starting wt MODE **
+
+wt mode data for obs 00848890003 only has 1.444627857208252E+01 s of data. The current minimum is 15 so I'm skipping this dataset
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 553905364.784263 to 553906501.069263 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+Time 553905613.784263 to 553906013.784263 (242.5-642.5) need PSF-fitting
+End of interval, intdir: 20
+
+Time 553906303.784263 to 553906497.069263 (932.5-1125.78499984741) need PSF-fitting
+There are times in this data set which maybe piled up. Doing PSF fitting to confirm this, and correct for it
+Calling ximage to get the psf
+----------------------------------
+
+Calling ximage to get the background
+----------------------------------
+
+The data are piled up between 553905613.784263 and 553906013.784263. Need to ignore the central 7.08"
+Calling ximage to get the psf
+----------------------------------
+
+Calling ximage to get the background
+----------------------------------
+
+The data are piled up between 553906303.784263 and 553906497.069263. Need to ignore the central 7.08"
+
+* starting orbit 2, times 553909823.081883 to 553911181.237943 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+Time 553910167.081883 to 553910397.081883 (337.5-567.5) need PSF-fitting
+Time 553910607.081883 to 553910672.081883 (777.5-842.5) need PSF-fitting
+There are times in this data set which maybe piled up. Doing PSF fitting to confirm this, and correct for it
+Calling ximage to get the psf
+----------------------------------
+
+Calling ximage to get the background
+----------------------------------
+
+The data are piled up between 553910167.081883 and 553910397.081883. Need to ignore the central 9.44"
+The data are piled up between 553910607.081883 and 553910672.081883. Need to ignore the central 11.8"
+
+       *************** Working on observation 00848890004 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 553955617.424232 to 553956543.096032 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 553961384.963443 to 553962303.113343 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 553967159.756632 to 553969617.388732 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 553972988.623463 to 553973698.667463 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890005 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 554019293.171483 to 554021261.880083 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 554035964.378863 to 554036340.951963 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 554041694.827903 to 554042101.488603 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 554047546.370812 to 554049663.010111 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 5, times 554054165.833792 to 554054291.676892 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890006 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 554133736.844851 to 554134622.399851 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 554139338.367923 to 554140381.882823 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 554145557.573883 to 554146142.252883 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 554151168.967192 to 554151841.401692 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 5, times 554156860.187632 to 554157602.826532 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 6, times 554162491.973223 to 554162941.258023 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 7, times 554168136.373123 to 554168941.694523 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890007 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 554208160.000363 to 554209682.409563 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 554214040.373352 to 554215683.132952 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 554219620.569683 to 554221263.329283 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890008 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 554294219.823832 to 554295722.174631 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 554300121.568172 to 554301781.878872 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 554306870.767812 to 554307362.676712 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 554311611.021172 to 554312942.875572 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890009 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 554368794.605743 to 554369883.252043 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 554374495.779152 to 554375762.443751 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 554380275.826832 to 554381702.958632 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 554386036.568092 to 554387222.999092 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890010 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 554454879.039592 to 554455862.379292 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 554460586.028743 to 554461802.547343 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 554466318.372932 to 554467742.997432 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 554472078.361292 to 554473322.460192 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890011 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 554540978.804592 to 554541841.793892 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 554546677.985932 to 554547781.676032 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 554552438.805523 to 554553840.864323 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 554558137.985992 to 554559542.552091 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890012 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 554621279.215811 to 554621941.621111 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 554626980.169143 to 554627883.275243 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 554632744.399863 to 554633823.016963 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 554638453.980952 to 554639881.112752 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 5, times 554644194.366003 to 554644861.785903 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890013 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 554995614.162212 to 554996341.757312 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 555000115.998652 to 555001741.207151 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 555005728.963392 to 555006963.033092 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 555012054.766372 to 555013321.430972 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890014 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 555149214.222504 to 555150062.168003 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 555155470.934123 to 555156241.153323 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 555160733.774732 to 555162361.490532 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 555166418.418403 to 555166993.068203 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890015 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 555368326.352372 to 555369302.170171 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 555373274.806203 to 555374701.938723 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890016 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 555465796.783863 to 555466442.660223 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 555478146.155784 to 555478562.845683 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 555483861.638523 to 555484320.952523 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 555487700.002352 to 555488221.998852 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 5, times 555493464.846492 to 555494342.879592 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 6, times 555500029.827152 to 555500461.560852 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 7, times 555505133.218984 to 555505860.814923 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890017 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 555705821.167583 to 555707461.419883 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 555711519.999964 to 555711721.062063 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 555724489.845972 to 555724801.229272 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890018 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 555866876.821352 to 555867962.960352 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 555878952.576084 to 555879421.919283 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 555890564.806603 to 555891001.554903 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 555896016.606392 to 555897283.275692 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890019 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 556074083.131852 to 556075021.340152 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 556080049.577764 to 556080782.187463 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 556086048.734303 to 556086660.993603 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 556143415.981072 to 556143722.349772 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890020 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 556291422.220592 to 556292548.476392 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 556296827.397284 to 556297743.039883 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 556304134.580963 to 556304282.989763 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 556321318.019912 to 556321922.757852 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890021 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 556464053.966012 to 556465501.156211 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 556469029.167583 to 556470601.722783 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 556474679.647204 to 556476239.665903 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890022 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+       *************** Working on observation 00848890023 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 556762285.105272 to 556763464.014372 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 556768286.164723 to 556769582.916923 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 556774139.549244 to 556774982.480143 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 556778810.749163 to 556779480.676363 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890024 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 556951484.630263 to 556952523.130563 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 556956696.377804 to 556957742.400003 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 556962436.754563 to 556963201.959163 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 556968116.419703 to 556969022.033103 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 5, times 556973876.420003 to 556975082.909403 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890025 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 557342217.017063 to 557343002.280063 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 557346940.023183 to 557348522.607583 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 557353166.803812 to 557354822.099912 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 557358510.366472 to 557358528.395672 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890026 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 557480704.969172 to 557481121.659072 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 557496362.584883 to 557497922.603583 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 557502157.038864 to 557502170.053463 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 4, times 557507535.788712 to 557508902.745312 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+       *************** Working on observation 00848890027 *************** 
+
+
+** Starting wt MODE **
+
+
+** Starting pc MODE **
+
+
+* starting orbit 1, times 557656944.363463 to 557658361.466063 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 2, times 557662538.780872 to 557664121.374003 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+
+* starting orbit 3, times 557668238.240772 to 557669881.000372 *
+
+Now checking for pileup. This can take a while
+Mode is pc, rate threshold is 0.6
+
+Prepared all observations for data extraction, combining them.
+Preparation complete. Now extracting the lightcurve
+Complete. All products are in /scratch/tmp_lc_prods_00848890_SdiKz
